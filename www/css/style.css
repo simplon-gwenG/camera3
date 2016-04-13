@@ -1,1 +1,32 @@
 /* Empty. Add your own CSS if you like */
+.has-header {
+  text-align: center;
+}
+.scroll-content {
+  background: url('../img/logo.jpg') no-repeat center;
+  background-size: cover;
+}
+.button-small {
+  position: relative;
+
+}
+.polaroid {
+position: relative;
+ width: 220px;
+ }
+
+.polaroid img {
+ border: 10px solid #fff;
+ border-bottom: 45px solid #fff;
+ -webkit-box-shadow: 3px 3px 3px #777;
+    -moz-box-shadow: 3px 3px 3px #777;
+         box-shadow: 3px 3px 3px #777;
+      }
+.polaroid p {
+position: absolute;
+text-align: center;
+width: 100%;
+bottom: 0px;
+font: 400 18px/1 'Kaushan Script', cursive;
+color: #888;
+      }

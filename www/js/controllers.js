@@ -6,7 +6,7 @@ angular.module('starter')
 
   $scope.takePhoto = function(){// fonction du ng-click
     var options = {
-      limit:2 // définit le nb de photos à prendre en un seul click sur le bouton
+      limit:2, // définit le nb de photos à prendre en un seul click sur le bouton
     };
 
     $cordovaCapture.captureImage(options).then(function(results){
