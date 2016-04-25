@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/image_bg.9.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-hdpi/image_bg.9.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_icon.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-hdpi/loading_icon.png"
+    }
+]

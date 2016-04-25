@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/html/camera3/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9870aaf0134ae1d32ab89e95d3174740ee3945b3">
+        <dex dex="/var/www/html/camera3/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_409d7087b709aa3e9690f7a7ffd25c2d04e81688.jar" />
+    </item>
+
+</items>

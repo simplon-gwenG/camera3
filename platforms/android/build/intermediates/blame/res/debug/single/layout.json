@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_custom_view_done_discard.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_custom_view_done_discard.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/multiselectorgrid.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/multiselectorgrid.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_discard_button.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_discard_button.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_done_button.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_done_button.xml"
+    }
+]

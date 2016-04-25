@@ -8,7 +8,7 @@ angular.module('starter')
 
   $scope.takePhoto = function(){// fonction du ng-click
     var options = {
-      limit:2 // définit le nb de photos à prendre en un seul click sur le bouton
+      limit:1 // définit le nb de photos à prendre en un seul click sur le bouton
     };
 
     $cordovaCapture.captureImage(options).then(function(results){
@@ -63,8 +63,17 @@ angular.module('starter')
        console.log(context);
 
        var photo = new Image();
+       window.onload = function(){
+         context.drawImage(photo, 0, 0, 100, 100);
+         console.log("test");
+       };
        photo.ngSrc = $scope.images[0];
-       context.drawImage(photo, 0, 0, 100, 100);
+       var canvas = document.getElementById("canvas_id");
+         var context = canvas.getContext('2d');
+
+         context.fillStyle = "#ff0000";
+          context.fillRect(100,0,80,80);
+
        console.log(photo.ngSrc);
 
     }
