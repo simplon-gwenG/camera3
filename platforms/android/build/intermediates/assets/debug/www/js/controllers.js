@@ -50,31 +50,32 @@ angular.module('starter')
            },
            this);
        }
-       var canvas = document.getElementById('canvas_id');
-       canvas.width = 500;
-       canvas.height = 300;
-       //canvas.style.zIndex = 8;
-       //canvas.style.position = "absolute";
-       canvas.style.border = "5px solid";
 
+       var canvas = document.getElementById('canvas_id');
        console.log(canvas_id);
 
        var context =canvas.getContext('2d');
        console.log(context);
 
-       var photo = new Image();
-       window.onload = function(){
-         context.drawImage(photo, 0, 0, 100, 100);
-         console.log("test");
-       };
-       photo.ngSrc = $scope.images[0];
-       var canvas = document.getElementById("canvas_id");
-         var context = canvas.getContext('2d');
 
-         context.fillStyle = "#ff0000";
-          context.fillRect(100,0,80,80);
 
-       console.log(photo.ngSrc);
+               var photo = document.querySelectorAll('.imgAffichage');//selection en html 5 sur la class imgAffichage et renvoie un tableau
+               for (var j = 0; j < photo.length; j++) {// on parcourt le tableau j car i est déjà utilisé
+                   photo[j].ngSrc = $scope.images[j];//selection de la source (tableau d'images)
+                   var positionX = j*100;// variable qui crée un décalage de position d'image à chaque tour de tableau
+                   var positionY = 0;
+                   context.drawImage(photo[j],positionX,positionY,100,100);
+               }
+
+               /*$scope.draw = function () {
+                 context.drawImage($scope.photo,10,10,50,50);
+             }*/
+
+
+               //context.fillStyle = "#ff0000";
+                //context.fillRect(30,0,80,80);
+
+
 
     }
 
