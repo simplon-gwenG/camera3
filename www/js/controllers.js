@@ -52,21 +52,24 @@ angular.module('starter')
        }
 
        var canvas = document.getElementById('canvas_id');
-       console.log(canvas_id);
-
        var context =canvas.getContext('2d');
-       console.log(context);
+       var photo = document.querySelectorAll('.imgAffichage');//selection en html 5 sur la class imgAffichage et renvoie un tableau
+            for (var j = 0; j < photo.length; j++) {// on parcourt le tableau j car i est déjà utilisé
+            photo[j].ngSrc = $scope.images[j];//selection de la source (tableau d'images)
+            var positionX = j*260;// variable qui crée un décalage de position d'image à chaque tour de tableau
+            var positionY = 0;
+            context.save();
+            context.translate(200, 10)
+            context.rotate((Math.PI / 180) * 90)
+            context.strokeStyle = "#ffffff";
+            context.lineWidth = 10;
+            //context.strokeRect(0,0,context.canvas.width, context.canvas.height);
+            context.drawImage(photo[j],positionX,positionY,250,150);// dessine une image à chaque tour de boucle du tableau photo[j] avec les positions définies
+    //dessine l'image  de l'index j
+    context.strokeRect(positionX,positionY,250, 150);
+            context.restore();
 
-
-
-               var photo = document.querySelectorAll('.imgAffichage');//selection en html 5 sur la class imgAffichage et renvoie un tableau
-               for (var j = 0; j < photo.length; j++) {// on parcourt le tableau j car i est déjà utilisé
-                   photo[j].ngSrc = $scope.images[j];//selection de la source (tableau d'images)
-                   var positionX = j*100;// variable qui crée un décalage de position d'image à chaque tour de tableau
-                   var positionY = 0;
-                   context.drawImage(photo[j],positionX,positionY,100,100);// dessine une image à chaque tour de boucle du tableau photo[j] avec les positions définies
-                //dessine l'image  de l'index j
-               }
+            }
 
     }
 

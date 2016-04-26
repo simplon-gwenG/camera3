@@ -33,13 +33,11 @@
         <ion-content class="has-header padding" ng-controller="ImageController">
           <button class="button button-block button-calm icon ion-android-camera" ng-click="takePhoto()">   Smile ! </button>
           <ion-scroll direction="y" id="emailBody" >
-
+             <canvas id="canvas_id" width="250" height="600" style="border: 5px solid; background: url(img/fond.jpg) no-repeat center center;">
               <img class="image imgAffichage" ng-repeat="img in images " ng-src="{{img}}"  id="pictures" style="max-width:250px; max-height:auto; margin-top:50p" ng-style="myObj"/>
-
+             </canvas>
           </ion-scroll>
           <button class="button button-small button-positive icon ion-email" ng-click="sendEmail()">   Send Email </button>
-
-      <canvas id="canvas_id" width="500" height="300" style="border: 5px solid;"> </canvas>
       </ion-content>
     </ion-pane>
   </body>
