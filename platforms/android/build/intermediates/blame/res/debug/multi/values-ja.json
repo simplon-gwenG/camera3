@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+        "outputFile": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/values-ja/values-ja.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 128
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 331
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 405
                 },
                 "from": {
-                    "file": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/platforms/android/res/values-ja/multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "outputFile": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+        "outputFile": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
         "map": [
             {
                 "to": {
@@ -130,7 +130,7 @@
                     "endOffset": 92
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -149,7 +149,7 @@
                     "endOffset": 128
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -168,7 +168,7 @@
                     "endOffset": 207
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -187,7 +187,7 @@
                     "endOffset": 270
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -206,7 +206,7 @@
                     "endOffset": 331
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -225,13 +225,132 @@
                     "endOffset": 405
                 },
                 "from": {
-                    "file": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "file": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 263,
                         "endColumn": 73,
                         "endOffset": 332
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 332,
+                        "endColumn": 41,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 35,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 35,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 78,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 78,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 62,
+                    "endOffset": 270
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 62,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 275,
+                    "endColumn": 60,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 73,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\values-ja\\multiimagechooser_strings_ja.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 73,
+                        "endOffset": 327
                     }
                 }
             }

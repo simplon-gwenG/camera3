@@ -1,34 +1,50 @@
 [
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_discard_button.xml",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_discard_button.xml"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\multiselectorgrid.xml",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\multiselectorgrid.xml"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_done_button.xml",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_done_button.xml"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_custom_view_done_discard.xml",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_custom_view_done_discard.xml"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_done_button.xml",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_done_button.xml"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_done_button.xml",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_done_button.xml"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_discard_button.xml",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_discard_button.xml"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\multiselectorgrid.xml",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\multiselectorgrid.xml"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_custom_view_done_discard.xml",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_custom_view_done_discard.xml"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_discard_button.xml",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\actionbar_discard_button.xml"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\multiselectorgrid.xml",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\multiselectorgrid.xml"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_custom_view_done_discard.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_custom_view_done_discard.xml"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_custom_view_done_discard.xml",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_custom_view_done_discard.xml"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_discard_button.xml",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_discard_button.xml"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\multiselectorgrid.xml",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\layout\\multiselectorgrid.xml"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/multiselectorgrid.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/multiselectorgrid.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_done_button.xml",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_done_button.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_discard_button.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_discard_button.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/layout/actionbar_done_button.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/layout/actionbar_done_button.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_custom_view_done_discard.xml",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\layout\\actionbar_custom_view_done_discard.xml"
     }
 ]

@@ -58,7 +58,7 @@ angular.module('starter')
             photo[j].ngSrc = $scope.images[j];//selection de la source (tableau d'images)
             var positionX = j*260;// variable qui crée un décalage de position d'image à chaque tour de tableau
             var positionY = 0;
-            context.save();// sauvegarde du conevas initial
+            context.save();// sauvegarde du canevas initial
             context.translate(200, 10)// déplacement de l'image
             context.rotate((Math.PI / 180) * 90)// rotation de l'image
             context.strokeStyle = "#ffffff";// cadre blanc autour de l'image
@@ -68,9 +68,10 @@ angular.module('starter')
     //dessine l'image  de l'index j
     context.strokeRect(positionX,positionY,250, 150);// positionnment du rectangle autour de l'image
             context.restore();// retour au context d'origine
-
+    //transforme le canevas en image
+            var img = new Image();
+            img.src = canvas.toDataURL();
+            document.body.appendChild(img);
             }
-
     }
-
 })

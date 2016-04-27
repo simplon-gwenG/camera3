@@ -1,50 +1,74 @@
 [
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_dark.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_dark.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/icon.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_dark.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_dark.png"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_discard_light.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/ic_action_discard_light.png"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_light.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_light.png"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_dark.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_dark.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_dark.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_dark.png"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\icon.png"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_dark.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_dark.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_dark.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_dark.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_light.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_light.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_light.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_light.png"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\icon.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_light.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_light.png"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_light.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_light.png"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_dark.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_dark.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\icon.png"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_light.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_light.png"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_light.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_light.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_discard_dark.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/ic_action_discard_dark.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_done_dark.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/ic_action_done_dark.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_done_dark.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_done_dark.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_done_light.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xhdpi/ic_action_done_light.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_discard_light.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_action_discard_light.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]

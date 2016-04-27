@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\xml\\config.xml"
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\xml\\config.xml"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\xml\\config.xml"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/var/www/html/camera3/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\xml\\config.xml",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\xml\\config.xml"
     }
 ]
