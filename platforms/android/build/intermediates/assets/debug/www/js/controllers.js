@@ -79,6 +79,29 @@ angular.module('starter')
            this);
        }
 
+<<<<<<< HEAD
+=======
+       var canvas = document.getElementById('canvas_id');
+       var context =canvas.getContext('2d');
+       var photo = document.querySelectorAll('.imgAffichage');//selection en html 5 sur la class imgAffichage et renvoie un tableau
+            for (var j = 0; j < photo.length; j++) {// on parcourt le tableau j car i est déjà utilisé
+            photo[j].ngSrc = $scope.images[j];//selection de la source (tableau d'images)
+            var positionX = j*260;// variable qui crée un décalage de position d'image à chaque tour de tableau
+            var positionY = 0;
+            context.save();// sauvegarde du canevas initial
+            context.translate(200, 10)// déplacement de l'image
+            context.rotate((Math.PI / 180) * 90)// rotation de l'image
+            context.strokeStyle = "#ffffff";// cadre blanc autour de l'image
+            context.lineWidth = 10;// épaisseur du cadre
+            //context.strokeRect(0,0,context.canvas.width, context.canvas.height);
+            context.drawImage(photo[j],positionX,positionY,250,150);// dessine une image à chaque tour de boucle du tableau photo[j] avec les positions définies
+    //dessine l'image  de l'index j
+    context.strokeRect(positionX,positionY,250, 150);// positionnment du rectangle autour de l'image
+            context.restore();// retour au context d'origine
+            var img = new Image();
+            img.src = canvas.toDataURL();
+            document.body.appendChild(img);
+            }
+>>>>>>> 943045ec45acf8f2a5494eae34bc5d9c7b4c02b2
     }
-
 })

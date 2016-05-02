@@ -1,10 +1,14 @@
 [
     {
-        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
-        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon.png",
+        "source": "/var/www/html/camera3/platforms/android/res/drawable-xxhdpi/icon.png"
     },
     {
-        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
-        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xxhdpi\\icon.png"
+        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-xxhdpi\\icon.png"
     }
 ]
