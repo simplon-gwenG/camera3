@@ -1,15 +1,11 @@
 /* Empty. Add your own CSS if you like */
-/*.scroll-content{
-  background: url('../img/logo.jpg') no-repeat center;
-  background-size: cover;
-}*/
+.scroll-content{
+  background: url(../img/53823.jpg);
+  background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
 .button-small{
   position: relative;
   }
-  /*var canvas = document.getElementById("canvas_id");
-    var context = canvas.getContext('2d');
-
-    context.fillStyle = "#ff0000";
-     context.fillRect(100,0,80,80);
-
-     carré rouge opérationnel*/

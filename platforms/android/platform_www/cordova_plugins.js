@@ -242,6 +242,27 @@ module.exports = [
         "clobbers": [
             "plugins.ImagePicker"
         ]
+    },
+    {
+        "file": "plugins/cordova-plugin-file-transfer/www/FileTransferError.js",
+        "id": "cordova-plugin-file-transfer.FileTransferError",
+        "clobbers": [
+            "window.FileTransferError"
+        ]
+    },
+    {
+        "file": "plugins/cordova-plugin-file-transfer/www/FileTransfer.js",
+        "id": "cordova-plugin-file-transfer.FileTransfer",
+        "clobbers": [
+            "window.FileTransfer"
+        ]
+    },
+    {
+        "file": "plugins/org.devgeeks.Canvas2ImagePlugin/www/Canvas2ImagePlugin.js",
+        "id": "org.devgeeks.Canvas2ImagePlugin.Canvas2ImagePlugin",
+        "clobbers": [
+            "window.canvas2ImagePlugin"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -252,7 +273,9 @@ module.exports.metadata =
     "cordova-plugin-email-composer": "0.8.3",
     "cordova-plugin-file": "4.2.0",
     "cordova-plugin-media-capture": "1.3.0",
-    "com.synconset.ImagePickerExt": "1.0.25"
+    "com.synconset.ImagePickerExt": "1.0.25",
+    "cordova-plugin-file-transfer": "1.5.1",
+    "org.devgeeks.Canvas2ImagePlugin": "0.6.0"
 };
 // BOTTOM OF METADATA
 });
