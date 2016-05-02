@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/var/www/html/camera3/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/jars/classes.jar"
+        jar="C:\wamp\www\camera3\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="93d0587ac64c10a9e6090cce3385f7441a591038">
-        <dex dex="/var/www/html/camera3/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_409d7087b709aa3e9690f7a7ffd25c2d04e81688.jar" />
+        sha1="a54044609a99772c0e24ab5af8e3238aca8548b6">
+        <dex dex="C:\wamp\www\camera3\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_54659346a82f1e89c45c035a8fdd2b9db5e753d8.jar" />
     </item>
 
 </items>

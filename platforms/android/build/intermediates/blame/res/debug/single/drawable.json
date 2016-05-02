@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable/grid_background.xml",
-        "source": "/var/www/html/camera3/platforms/android/res/drawable/grid_background.xml"
+        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
+        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
     },
     {
-        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
-        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
+        "merged": "C:\\var\\www\\html\\camera3\\C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
+        "source": "C:\\var\\www\\html\\camera3\\C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
     },
     {
-        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
-        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
+        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
+        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
+    },
+    {
+        "merged": "C:\\var\\www\\html\\camera3\\C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable\\grid_background.xml",
+        "source": "C:\\var\\www\\html\\camera3\\C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable\\grid_background.xml"
     }
 ]

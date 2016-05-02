@@ -3,9 +3,11 @@
   background: url(../img/53823.jpg);
   background-repeat: no-repeat;
    background-size: cover;
-
 }
 
 .button-small{
   position: relative;
   }
+#emailBody{
+    height: auto;
+}

@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
-        "source": "/var/www/html/camera3/C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
+        "merged": "C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
+        "source": "C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
     },
     {
-        "merged": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
-        "source": "/var/www/html/camera3/C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
+        "merged": "C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
+        "source": "C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
     },
     {
-        "merged": "/var/www/html/camera3/platforms/android/build/intermediates/res/merged/debug/drawable-land-ldpi-v4/screen.png",
-        "source": "/var/www/html/camera3/platforms/android/res/drawable-land-ldpi/screen.png"
+        "merged": "C:\\var\\www\\html\\camera3\\C:\\var\\www\\html\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
+        "source": "C:\\var\\www\\html\\camera3\\C:\\var\\www\\html\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
+    },
+    {
+        "merged": "C:\\var\\www\\html\\camera3\\C:\\wamp\\www\\camera3\\platforms\\android\\build\\intermediates\\res\\merged\\debug\\drawable-land-ldpi-v4\\screen.png",
+        "source": "C:\\var\\www\\html\\camera3\\C:\\wamp\\www\\camera3\\platforms\\android\\res\\drawable-land-ldpi\\screen.png"
     }
 ]
