@@ -8,7 +8,7 @@ angular.module('starter')
 
   $scope.takePhoto = function(){// fonction du ng-click
     var options = {
-      limit:2 // définit le nb de photos à prendre en un seul click sur le bouton
+      limit:4 // définit le nb de photos à prendre en un seul click sur le bouton
     };
 
     $cordovaCapture.captureImage(options).then(function(results){
@@ -25,8 +25,6 @@ angular.module('starter')
       });
   };
   $scope.shareAnywhere =function(){
-
-
         if (null != $scope.images) {
             var images = [];
             var savedImages = $scope.images;
@@ -65,7 +63,7 @@ angular.module('starter')
                 },
                 document.getElementById('canvas_id')
             );
-            //fonction share avec le plugin cordovaSocialSharing prédéfini
+            //fonction share avec le plugin cordovaSocialSharing prédéfini (envoi du mail)
             $cordovaSocialSharing.shareViaEmail(
                 "photos prises par ma photo Kbine",// message
                 "phooto yeaah",//sujet, titre et intitulé de la pièce jointe
@@ -74,10 +72,6 @@ angular.module('starter')
                 null,//destinataire en copie invisible
                 canvas.toDataURL()//pièce jointe
             );
-//on appelle le plugin email que l'on a ajouté au début
-
        }
-
     }
-
 })
