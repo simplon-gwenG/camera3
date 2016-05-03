@@ -27,6 +27,9 @@
         },
         "org.devgeeks.Canvas2ImagePlugin": {
             "PACKAGE_NAME": "com.ionicframework.camera2978074"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.ionicframework.camera2978074"
         }
     },
     "dependent_plugins": {

@@ -1,7 +1,7 @@
 
 angular.module('starter')
 
-.controller('ImageController', function($scope, $cordovaFile, $cordovaCapture, $cordovaEmailComposer){
+.controller('ImageController', function($scope, $cordovaFile, $cordovaCapture, $cordovaEmailComposer, $cordovaSocialSharing){
   // définition du tableau pour le ng-repeat pour stocker les images
   $scope.images = [];
   $scope.myObj = {"border": "10px solid white","transform":"rotate(90deg)"}
@@ -24,9 +24,9 @@ angular.module('starter')
         console.log(err);
       });
   };
-  $scope.sendEmail =function(){
-    // body text
-    var bodyText = "<h2>photos prises par MaPhoto K-Bine</h2>";
+  $scope.shareAnywhere =function(){
+
+
         if (null != $scope.images) {
             var images = [];
             var savedImages = $scope.images;
@@ -65,18 +65,17 @@ angular.module('starter')
                 },
                 document.getElementById('canvas_id')
             );
-
+            //fonction share avec le plugin cordovaSocialSharing prédéfini
+            $cordovaSocialSharing.shareViaEmail(
+                "photos prises par ma photo Kbine",// message
+                "phooto yeaah",//sujet, titre et intitulé de la pièce jointe
+                null,//destinataire
+                null,//destinataire en copie
+                null,//destinataire en copie invisible
+                canvas.toDataURL()//pièce jointe
+            );
 //on appelle le plugin email que l'on a ajouté au début
-  window.plugin.email.open({
-               to:   ''       , // email addresses for TO field
-               attachments: images, // file paths or base64 data streams
-               subject:    "Ma Photo K-Bine", // subject of the email
-               body:       bodyText , // email body (for HTML, set isHtml to true)
-               isHtml:    true, // indicats if the body is HTML or plain text
-           }, function () {
-               console.log('email view dismissed');
-           },
-           this);
+
        }
 
     }

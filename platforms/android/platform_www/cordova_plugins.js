@@ -263,6 +263,13 @@ module.exports = [
         "clobbers": [
             "window.canvas2ImagePlugin"
         ]
+    },
+    {
+        "file": "plugins/cordova-plugin-x-socialsharing/www/SocialSharing.js",
+        "id": "cordova-plugin-x-socialsharing.SocialSharing",
+        "clobbers": [
+            "window.plugins.socialsharing"
+        ]
     }
 ];
 module.exports.metadata = 
@@ -275,7 +282,8 @@ module.exports.metadata =
     "cordova-plugin-media-capture": "1.3.0",
     "com.synconset.ImagePickerExt": "1.0.25",
     "cordova-plugin-file-transfer": "1.5.1",
-    "org.devgeeks.Canvas2ImagePlugin": "0.6.0"
+    "org.devgeeks.Canvas2ImagePlugin": "0.6.0",
+    "cordova-plugin-x-socialsharing": "5.0.12"
 };
 // BOTTOM OF METADATA
 });
